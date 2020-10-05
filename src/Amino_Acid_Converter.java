@@ -1,10 +1,3 @@
-/*
-Class Name: BIFS 618
-Homework assignment3, question1
-File name: hwk3_1.java
-Program author name: Samuel Rusher
-*/
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
