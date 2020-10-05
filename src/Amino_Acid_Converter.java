@@ -16,7 +16,7 @@ public class hwk3_1 {
             File myFile = new File(scanner1.nextLine()); //instantiating File class from the user's input
             Scanner scanner2 = new Scanner(myFile); //scanner is reading myFile
             while (scanner2.hasNextLine()){ //while loop is using scanner2 and hasNextLine() method to read through each line in the file, if there are no more lines, the loop terminates
-                codongen.dnaseq += scanner2.nextLine();
+                codongen.dnaseq = scanner2.nextLine();
             }
             scanner2.close(); //closing scanenr
         }
