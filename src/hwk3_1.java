@@ -32,8 +32,6 @@ public class hwk3_1 {
             e.printStackTrace();
         }
 
-        codongen.codon(codongen.dnaseq); //calling codon() method from the DNA class, with the dnaseq field as the parameter
-
         codongen.codon2aa(codongen.dnaseq); //calling codon2aa() method from the DNA class, with the dnaseq field as the parameter
 
 
