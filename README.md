@@ -1,5 +1,3 @@
-# README
-
 # Where to Look?:
 
 The application can be found in the 'src' folder, in the DNA.java and Amino_Acid_Converter.java files. The DNA.java file contains the DNA class which defines the fields and
